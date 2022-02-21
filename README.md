@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karanmalviya
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning new technologies
-- 💞️ I’m looking to collaborate on techie peoples
+- 🌱 currently learning new technologies
+- 💞️ looking to collaborate with techie peoples
 - 📫 How to reach me 
 
 <!---
