@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karan Malviya
 =====================================================================================================================================
 
-Full Stack, Python, DevOps
+Full Stack Developer, Python, DevOps, AWS
 -------------------------------------------
 
 A curious tech enthusiast who is eager to create, work and learn about the latest technologies and various programming languages. I want to be associated with prestigious organizations to utilize and enhance my professional skills with mutual growth.
@@ -9,7 +9,7 @@ A curious tech enthusiast who is eager to create, work and learn about the lates
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [porfolio](http://karanmalviya.vercel.app)
 * ✉️  You can contact me at [karanmalviya258@gmail.com](mailto:karanmalviya258@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects as a developer or designer
+* 🤝  I'm open to collaborating on interesting projects as a developer
 
 <a href="https://www.github.com/Karanmalviya" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Karanmalviya?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
