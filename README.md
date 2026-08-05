@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karan Malviya
 =====================================================================================================================================
 
-Full Stack Developer,Next.js, Python, DevOps, AWS
+Full Stack Developer, Next.js, Python, DevOps, AWS
 -------------------------------------------
 
 A curious tech enthusiast who is eager to create, work and learn about the latest technologies and various programming languages. I want to be associated with prestigious organizations to utilize and enhance my professional skills with mutual growth.
