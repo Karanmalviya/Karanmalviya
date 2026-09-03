@@ -7,7 +7,7 @@ Full Stack Developer, Next.js, Python, DevOps, AWS
 A curious tech enthusiast who is eager to create, work and learn about the latest technologies and various programming languages. I want to be associated with prestigious organizations to utilize and enhance my professional skills with mutual growth.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [porfolio](http://karanmalviya.vercel.app)
+* 🖥️  See my portfolio at [karanmalviya.vercel.app](http://karanmalviya.vercel.app)
 * ✉️  You can contact me at [karanmalviya258@gmail.com](mailto:karanmalviya258@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects as a developer
 
